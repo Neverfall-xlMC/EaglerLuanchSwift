@@ -1,0 +1,25 @@
+{
+  "versions": [
+    {
+      "id": "26.3",
+      "download": "https://github.com/Neverfall-xlMC/EaglerLaunchSwift/releases/download/eaglercraft-26.3.html",
+      "description": "Newest and modern version in SMCLuancher and powered by wasm (WebAssembly) make it runing faster than js, for only JS complied users, we're sorry about that because we didn't provide a JS version for 26.3",
+      "recommended": true,
+      "runtype": "wasm"
+    },
+    {
+      "id": "1.8.8",
+      "download": "https://github.com/Neverfall-xlMC/EaglerLaunchSwift/releases/download/eaglercraft1-8.html",
+      "description": "This JS version of 1.8.8 is existed only because for compliability, if you are wasm complied, luanch the wasm version instead.",
+      "recommended": false,
+      "runtype": "js"
+    },
+    {
+      "id": "1.8.8",
+      "download": "https://github.com/Neverfall-xlMC/EaglerLaunchSwift/releases/download/eaglercraft1-8-wasm.html",
+      "description": "An old version which attack cd doesn't exist but full of CPS, without mace and spear, powered by wasm, quick and easy.",
+      "recommended": true,
+      "runtype": "wasm"
+    }
+  ]
+}
